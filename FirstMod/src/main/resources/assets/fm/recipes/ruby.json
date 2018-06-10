@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "fm:ruby"
+            //change ruby to name set in moditems.java
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:ruby_block",
+         //change ruby to name set in ModBlocks.java
+        "count": 1
+    }
+}

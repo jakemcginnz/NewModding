@@ -1,0 +1,8 @@
+//Items
+item.ruby.name=Ruby
+
+//Blocks
+title.ruby_block.name=Block of Ruby
+
+//Creative Tab
+itemGroup.tab_firstmod=First Mod Tab
